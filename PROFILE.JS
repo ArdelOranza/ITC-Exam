@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
             strings: [
                 'Role', 
                'Web Developer',
-                'Interests & Passions',
+                'Interests&Passion',
                 'Cycling',
                 'Web Development', 
                 'Online Games', 
